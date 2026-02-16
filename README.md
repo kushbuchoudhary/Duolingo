@@ -1,54 +1,36 @@
+
 ## Acknowledgment
-This project is created for learning purposes and is inspired by existing open-source Duolingo-style implementations available online.
-Some parts of the structure and logic were adapted during the learning process, and further modifications were made for experimentation and understanding.
+
+This project is created for learning purposes and is inspired by open-source Duolingo-style implementations available online.  
+Modifications and experimentation were done for understanding full-stack development.
+
+## Disclaimer
+
+This project is for educational purposes only and is not affiliated with Duolingo.  
+All trademarks belong to their respective owners.
 
 
+# 🦉 Duolingo Clone (Next.js Learning App)
 
-🦉 Duolingo Clone (Next.js Learning App)
+A Duolingo-inspired language learning web application built using Next.js, TypeScript, and Tailwind CSS.  
+This project focuses on interactive lessons, gamification, and hands-on full-stack learning.
 
-A full-stack Duolingo-inspired language learning platform built using modern web technologies.
-This project focuses on interactive lessons, gamification, and a structured learning experience.
+## 🚀 Features
 
-🚀 Features
+- Interactive lesson system  
+- XP points & progress tracking  
+- Hearts / lives mechanism  
+- Practice modules  
+- Leaderboard UI  
+- Responsive design  
 
-Interactive lesson system
+## 🛠 Tech Stack
 
-XP points & progress tracking
+- Next.js  
+- TypeScript  
+- Tailwind CSS  
+- Drizzle ORM  
+- PostgreSQL  
 
-Hearts / lives mechanism
+## ⚙️ Run Locally
 
-Practice modules
-
-Leaderboard UI
-
-Shop & rewards concept
-
-Authentication-ready structure
-
-Responsive UI
-
-🛠 Tech Stack
-
-Frontend
-
-Next.js (App Router)
-
-TypeScript
-
-Tailwind CSS
-
-Backend / Logic
-
-API routes (Next.js)
-
-Drizzle ORM
-
-PostgreSQL (configurable)
-
-State & Utilities
-
-Zustand store
-
-Custom hooks
-
-Middleware
