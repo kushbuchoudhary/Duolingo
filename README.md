@@ -1,3 +1,8 @@
+## Acknowledgment
+This project is created for learning purposes and is inspired by existing open-source Duolingo-style implementations available online.
+Some parts of the structure and logic were adapted during the learning process, and further modifications were made for experimentation and understanding.
+
+
 
 🦉 Duolingo Clone (Next.js Learning App)
 
